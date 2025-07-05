@@ -33,30 +33,6 @@ A full-stack **Hotel Management System** built using a modern web stack. It enab
 
 ---
 
-## 📁 Project Structure
-
-Hotel-management-system/
-│
-├── Front-End/ # React app source code
-│ ├── public/
-│ ├── src/
-│ └── ...
-│
-├── Back-End/ # ASP.NET Core C# API code
-│ ├── Controllers/
-│ ├── Models/
-│ ├── Program.cs
-│ └── ...
-│
-├── Data Base.sql # SQL script to create and populate PostgreSQL DB
-├── Hotel Management System.docx # Project documentation (can be excluded in Git)
-├── README.md
-
-yaml
-Copy
-Edit
-
----
 
 ## ⚙️ Getting Started
 
