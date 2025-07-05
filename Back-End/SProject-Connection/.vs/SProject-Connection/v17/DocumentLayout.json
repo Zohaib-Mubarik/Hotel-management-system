@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\SProject-Connection\\SProject-Connection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4F14E8-E768-4575-A90E-BCEAC06AD39F}|SProject-Connection\\SProject-Connection.csproj|c:\\users\\hp\\source\\repos\\sproject-connection\\sproject-connection\\sproject-connection\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4F14E8-E768-4575-A90E-BCEAC06AD39F}|SProject-Connection\\SProject-Connection.csproj|solutionrelative:sproject-connection\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4F14E8-E768-4575-A90E-BCEAC06AD39F}|SProject-Connection\\SProject-Connection.csproj|c:\\users\\hp\\source\\repos\\sproject-connection\\sproject-connection\\sproject-connection\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4F14E8-E768-4575-A90E-BCEAC06AD39F}|SProject-Connection\\SProject-Connection.csproj|solutionrelative:sproject-connection\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4F14E8-E768-4575-A90E-BCEAC06AD39F}|SProject-Connection\\SProject-Connection.csproj|c:\\users\\hp\\source\\repos\\sproject-connection\\sproject-connection\\sproject-connection\\db\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4F14E8-E768-4575-A90E-BCEAC06AD39F}|SProject-Connection\\SProject-Connection.csproj|solutionrelative:sproject-connection\\db\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4F14E8-E768-4575-A90E-BCEAC06AD39F}|SProject-Connection\\SProject-Connection.csproj|c:\\users\\hp\\source\\repos\\sproject-connection\\sproject-connection\\sproject-connection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4F14E8-E768-4575-A90E-BCEAC06AD39F}|SProject-Connection\\SProject-Connection.csproj|solutionrelative:sproject-connection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4F14E8-E768-4575-A90E-BCEAC06AD39F}|SProject-Connection\\SProject-Connection.csproj|c:\\users\\hp\\source\\repos\\sproject-connection\\sproject-connection\\sproject-connection\\security\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4F14E8-E768-4575-A90E-BCEAC06AD39F}|SProject-Connection\\SProject-Connection.csproj|solutionrelative:sproject-connection\\security\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4F14E8-E768-4575-A90E-BCEAC06AD39F}|SProject-Connection\\SProject-Connection.csproj|c:\\users\\hp\\source\\repos\\sproject-connection\\sproject-connection\\sproject-connection\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4F14E8-E768-4575-A90E-BCEAC06AD39F}|SProject-Connection\\SProject-Connection.csproj|solutionrelative:sproject-connection\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SProject-Connection\\SProject-Connection\\SProject-Connection\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SProject-Connection\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SProject-Connection\\SProject-Connection\\SProject-Connection\\Models\\User.cs",
+              "RelativeToolTip": "SProject-Connection\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:56:02.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SProject-Connection\\SProject-Connection\\SProject-Connection\\Program.cs",
+              "RelativeDocumentMoniker": "SProject-Connection\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SProject-Connection\\SProject-Connection\\SProject-Connection\\Program.cs",
+              "RelativeToolTip": "SProject-Connection\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:20:55.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SProject-Connection\\SProject-Connection\\SProject-Connection\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "SProject-Connection\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SProject-Connection\\SProject-Connection\\SProject-Connection\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "SProject-Connection\\Models\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:18:40.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SProject-Connection\\SProject-Connection\\SProject-Connection\\Security\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "SProject-Connection\\Security\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SProject-Connection\\SProject-Connection\\SProject-Connection\\Security\\JwtTokenService.cs",
+              "RelativeToolTip": "SProject-Connection\\Security\\JwtTokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:15:33.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SProject-Connection\\SProject-Connection\\SProject-Connection\\Db\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SProject-Connection\\Db\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SProject-Connection\\SProject-Connection\\SProject-Connection\\Db\\UserRepository.cs",
+              "RelativeToolTip": "SProject-Connection\\Db\\UserRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:14:47.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SProject-Connection\\SProject-Connection\\SProject-Connection\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SProject-Connection\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SProject-Connection\\SProject-Connection\\SProject-Connection\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SProject-Connection\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:10:13.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

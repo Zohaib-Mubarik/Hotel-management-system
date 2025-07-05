@@ -1,0 +1,108 @@
+@media (min-width: 300px) and (max-width:500px)
+{
+
+    #portfoliolist .portfolio
+    {
+        box-sizing: border-box;
+        width: 96%;
+        margin: 20px;
+        display: inline;
+        float: left;
+        overflow: hidden;
+    }
+
+    .about .titlepage p {
+        font-weight: 400;
+        font-size: 16px;
+        margin-left: 0px;
+        line-height: 25px;
+        padding: 20pxx;
+        color: gray;
+        font-family: cursive;
+    
+    }
+
+    .about_img {
+        margin: 0px;
+        overflow: hidden;
+        
+    }
+
+    .about {
+        background-color: #fff;
+        padding: 0px;
+    }
+    .col-md-7{
+
+        padding-right: 0px;
+    }
+
+    
+
+
+}
+
+@media (min-width: 500px) and (max-width:700px)
+{
+
+    #portfoliolist .portfolio
+    {
+        box-sizing: border-box;
+        width: 41%;
+        margin: 20px;
+        display: inline;
+        float: left;
+        overflow: hidden;
+        margin-right: 21px;
+    }
+
+    .about {
+        background-color: #fff;
+        padding: 0px;
+    }
+
+    p {
+        margin-top: 0px;
+        margin-bottom: 1rem;
+        margin-right: -28px;
+    }
+
+    about .titlepage p {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 28px;
+        margin-left: 78px;
+        padding: 20pxx;
+        color: gray;
+        font-family: cursive;
+        margin-right: -154px;
+    }
+}
+
+@media (min-width: 700px) and (max-width:1300px)
+{
+
+    #portfoliolist .portfolio
+    {
+        box-sizing: border-box;
+        width: 27%;
+        margin: 20px;
+        display: inline;
+        float: left;
+        overflow: hidden;
+    }
+}
+
+@media  (max-width:300px)
+{
+
+    #portfoliolist .portfolio
+    {
+        box-sizing: border-box;
+        width: 96%;
+        margin: 20px;
+        display: inline;
+        float: left;
+        overflow: hidden;
+    }
+}
