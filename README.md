@@ -42,30 +42,6 @@ A full-stack **Hotel Management System** built using a modern web stack. It enab
 - .NET SDK (for C# backend)
 - Git
 
-### 🖥️ Frontend Setup
-
-```bash
-cd Front-End
-npm install
-npm run dev
-🛠️ Backend Setup
-bash
-Copy
-Edit
-cd Back-End
-dotnet restore
-dotnet run
-Ensure your backend and database connection string are properly configured in appsettings.json.
-
-🗄️ Database Setup
-Open pgAdmin4
-
-Create a new database
-
-Run the SQL script in Data Base.sql to create tables and insert initial data
-
-🔐 Authentication & Security
-JWT-based token authentication for users
 
 Role-based access for admin and staff
 
